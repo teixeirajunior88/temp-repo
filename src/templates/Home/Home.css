@@ -1,0 +1,11 @@
+.search-container{
+  margin: 20px auto;
+}
+.container{
+  min-height: 100vh;
+  background: #eee;
+  margin: 10px 0;
+}
+.botao-home{
+  margin: 30px auto;
+}

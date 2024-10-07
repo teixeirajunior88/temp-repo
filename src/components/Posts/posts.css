@@ -1,0 +1,15 @@
+.posts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .posts-content{
+    width: 300px;
+    min-width: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px;
+  }
